@@ -1,2 +1,4 @@
 import LeanProverSemantic.Tiers
+import LeanProverSemantic.Statement
 import LeanProverSemantic.Examples.Counter
+import LeanProverSemantic.Examples.Statements
