@@ -1,0 +1,6 @@
+name = "lean-prover-semantic"
+version = "0.1.0"
+defaultTargets = ["LeanProverSemantic"]
+
+[[lean_lib]]
+name = "LeanProverSemantic"
